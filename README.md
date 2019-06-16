@@ -1,3 +1,3 @@
-# balena Go Hello world
+# IR Remote
 
-This is a very simple project that is an example of how to run Go code on a device that is supported by [balena](https://balena.io).
+[Gobot](https://gobot.io/documentation/platforms/raspi/) robot acting as a IR remote control for my living room.
